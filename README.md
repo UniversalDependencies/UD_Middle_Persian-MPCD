@@ -79,13 +79,13 @@ MPCD. 2026. Universal Dependency Treebank of Zoroastrian Middle Persian.
 
 # Changelog
 
-* 2026-05-15 v2.18
+* 2026-05-15 v2.19
   * Initial release in Universal Dependencies.
 
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.18
+Data available since: UD v2.19
 License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
@@ -95,7 +95,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Colditz, Iris; Jügel, Thomas; Musavi, Raha; Peschl, Benedikt; Gaspari, Angelica; Kłagisz, Matteusz; Marchetti, Carlo.
+Contributors: Colditz, Iris; Jügel, Thomas; Musavi, Raha; Peschl, Benedikt; Gaspari, Angelica; Kłagisz, Matteusz; Marchetti, Carlo
 Contributing: elsewhere
 Contact: contact-mpcd@uni-koeln.de
 ===============================================================================
